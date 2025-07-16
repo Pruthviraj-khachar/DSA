@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Sort012.C": "cpp"
+        "Sort012.C": "cpp",
+        "Merge Without_Extra_Space.C": "cpp"
     }
 }
